@@ -1,0 +1,10 @@
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.DA\bin\Release\aidaijia.API.DA.dll
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.DA\bin\Release\aidaijia.API.DA.pdb
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.DA\bin\Release\Aidaijia.API.Common.dll
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.DA\bin\Release\Aidaijia.API.Entity.dll
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.DA\bin\Release\Newtonsoft.Json.dll
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.DA\bin\Release\Aidaijia.API.Common.pdb
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.DA\bin\Release\Aidaijia.API.Entity.pdb
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.DA\obj\Release\Aidaijia.API.DAL.csprojResolveAssemblyReference.cache
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.DA\obj\Release\aidaijia.API.DA.dll
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.DA\obj\Release\aidaijia.API.DA.pdb

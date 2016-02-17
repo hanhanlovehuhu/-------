@@ -1,0 +1,6 @@
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.Common\bin\Debug\Aidaijia.API.Common.dll
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.Common\bin\Debug\Aidaijia.API.Common.pdb
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.Common\bin\Debug\Newtonsoft.Json.dll
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.Common\obj\Debug\Aidaijia.API.Common.csprojResolveAssemblyReference.cache
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.Common\obj\Debug\Aidaijia.API.Common.dll
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.Common\obj\Debug\Aidaijia.API.Common.pdb

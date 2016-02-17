@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E23BD612-308F-4095-B75C-1293C8A1B2A2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WebBll</RootNamespace>
+    <AssemblyName>WebBll</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\dll\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CheckCoupon.cs" />
+    <Compile Include="CoordinateHelper.cs" />
+    <Compile Include="CreateBusinessOrder.cs" />
+    <Compile Include="CreateOrder.cs" />
+    <Compile Include="PartyRequest\CancelOrderBll.cs" />
+    <Compile Include="PartyRequest\CheckNewCustomer.cs" />
+    <Compile Include="PartyRequest\ComplainBll.cs" />
+    <Compile Include="PartyRequest\CreateBusinessOrderBll.cs" />
+    <Compile Include="PartyRequest\CreateOrderByUcodeBll.cs" />
+    <Compile Include="PartyRequest\CreateOrderByUcodeServiceBll.cs" />
+    <Compile Include="PartyRequest\CreateOrderByUcodeServiceBll_new.cs" />
+    <Compile Include="PartyRequest\CreateOrderByUcodeService_OnlyCheLun.cs" />
+    <Compile Include="PartyRequest\CustomerRecharge.cs" />
+    <Compile Include="PartyRequest\DriverInfoBll.cs" />
+    <Compile Include="PartyRequest\GetCityPriceBll.cs" />
+    <Compile Include="PartyRequest\GetNearSjListBll.cs" />
+    <Compile Include="PartyRequest\GetOrderInfosByOrderIdBll.cs" />
+    <Compile Include="PartyRequest\GetOrderStateBll.cs" />
+    <Compile Include="PartyRequest\GetOrderStateBll_new.cs" />
+    <Compile Include="PartyRequest\GetPingjiaBll.cs" />
+    <Compile Include="PartyRequest\OrderHistoryBll.cs" />
+    <Compile Include="PartyRequest\ParterCallRequestBll.cs" />
+    <Compile Include="PartyRequest\PingJiaBll.cs" />
+    <Compile Include="PartyRequest\VerJsonBll.cs" />
+    <Compile Include="JsonBusinessFactory.cs" />
+    <Compile Include="JsonCommand.cs" />
+    <Compile Include="PartyRequest\YuyueRequestBll.cs" />
+    <Compile Include="PartyRequest\YuyueRequestServiceBll.cs" />
+    <Compile Include="PartyRequest\YuyueRequestServiceBll_new.cs" />
+    <Compile Include="PartyRequest\YuyueRequest_OnlyCheLun.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WebDal\WebDal.csproj">
+      <Project>{80207711-baac-49ed-bed0-5ec2e096434b}</Project>
+      <Name>WebDal</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WebModel\WebModel.csproj">
+      <Project>{b6b5ad5d-369f-4305-94d0-61680ae98c93}</Project>
+      <Name>WebModel</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WebUtility\WebUtility.csproj">
+      <Project>{3f9bbb67-be4a-4015-a738-fc1650b3e705}</Project>
+      <Name>WebUtility</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

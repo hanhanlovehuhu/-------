@@ -1,0 +1,8 @@
+﻿<?xml version="1.0"?>
+
+<AppRequest>
+  <Head Code="0002" Source="" Uid="" Version="1.0" Type="Android" />
+  <GetDrvPinlunRequest>
+    <uid>1</uid>
+  </GetDrvPinlunRequest>
+</AppRequest>

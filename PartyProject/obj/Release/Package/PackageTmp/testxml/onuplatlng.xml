@@ -1,0 +1,9 @@
+﻿<?xml version="1.0"?>
+<AppRequest>
+  <Head Code="1005" Source="" Uid="" Version="1.0" Type="Android" />
+  <UpdateLatLngRequest>
+    <uid>1</uid>
+    <lat>31.234693</lat>
+    <lng>121.470901</lng>
+  </UpdateLatLngRequest >
+</AppRequest>

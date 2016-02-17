@@ -1,0 +1,5 @@
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.Entity\bin\Debug\Aidaijia.API.Entity.dll
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.Entity\bin\Debug\Aidaijia.API.Entity.pdb
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.Entity\obj\Debug\Aidaijia.API.Entity.dll
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.Entity\obj\Debug\Aidaijia.API.Entity.pdb
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.Entity\obj\Debug\Aidaijia.API.Entity.csprojResolveAssemblyReference.cache

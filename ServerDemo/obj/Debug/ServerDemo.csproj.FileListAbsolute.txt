@@ -1,0 +1,6 @@
+F:\Project\第三方合作项目\ServerDemo\bin\ServerDemo.dll.config
+F:\Project\第三方合作项目\ServerDemo\bin\ServerDemo.dll
+F:\Project\第三方合作项目\ServerDemo\bin\ServerDemo.pdb
+F:\Project\第三方合作项目\ServerDemo\obj\Debug\ServerDemo.dll
+F:\Project\第三方合作项目\ServerDemo\obj\Debug\ServerDemo.pdb
+F:\Project\第三方合作项目\ServerDemo\obj\Debug\ServerDemo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\Publishs\WebParty02021808</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="baidu.html">
+      <publishTime>07/01/2015 08:50:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Common.dll">
+      <publishTime>07/01/2015 08:50:28</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Data.dll">
+      <publishTime>07/01/2015 08:50:28</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.ServiceLocation.dll">
+      <publishTime>07/01/2015 08:50:28</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.dll">
+      <publishTime>07/01/2015 08:50:28</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.Interception.dll">
+      <publishTime>07/01/2015 08:50:28</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>07/01/2015 08:50:28</publishTime>
+    </File>
+    <File Include="bin/PartyProject.dll">
+      <publishTime>02/02/2016 18:08:45</publishTime>
+    </File>
+    <File Include="bin/WebBll.dll">
+      <publishTime>02/02/2016 18:08:45</publishTime>
+    </File>
+    <File Include="bin/WebDal.dll">
+      <publishTime>02/02/2016 16:56:41</publishTime>
+    </File>
+    <File Include="bin/WebModel.dll">
+      <publishTime>11/12/2015 14:07:07</publishTime>
+    </File>
+    <File Include="bin/WebUtility.dll">
+      <publishTime>02/02/2016 14:31:50</publishTime>
+    </File>
+    <File Include="Config/AppSetting.config">
+      <publishTime>02/02/2016 14:21:20</publishTime>
+    </File>
+    <File Include="Config/Database.config">
+      <publishTime>09/18/2015 11:29:51</publishTime>
+    </File>
+    <File Include="Config/TestToolConfig.xml">
+      <publishTime>07/01/2015 08:50:26</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>07/01/2015 08:50:26</publishTime>
+    </File>
+    <File Include="Document/爱代驾合作伙伴API规范文档 V2.0 .docx">
+      <publishTime>07/01/2015 08:50:27</publishTime>
+    </File>
+    <File Include="Document/爱代驾合作伙伴API规范文档 V2.0 .pdf">
+      <publishTime>07/01/2015 08:50:27</publishTime>
+    </File>
+    <File Include="Document/爱代驾合作伙伴API规范文档 V2.3.docx">
+      <publishTime>07/01/2015 08:50:27</publishTime>
+    </File>
+    <File Include="Document/爱代驾合作伙伴API规范文档 V2.3.pdf">
+      <publishTime>07/01/2015 08:50:27</publishTime>
+    </File>
+    <File Include="Iphoneversion.xml">
+      <publishTime>07/01/2015 08:50:26</publishTime>
+    </File>
+    <File Include="jsontool.aspx">
+      <publishTime>07/01/2015 08:50:26</publishTime>
+    </File>
+    <File Include="Log/log.txt">
+      <publishTime>07/01/2015 08:50:26</publishTime>
+    </File>
+    <File Include="pservice.aspx">
+      <publishTime>07/01/2015 08:50:26</publishTime>
+    </File>
+    <File Include="robots.txt">
+      <publishTime>07/01/2015 08:50:26</publishTime>
+    </File>
+    <File Include="TestUnit/TestUnit.aspx">
+      <publishTime>07/01/2015 08:50:26</publishTime>
+    </File>
+    <File Include="testxml/createorder.xml">
+      <publishTime>07/01/2015 08:50:26</publishTime>
+    </File>
+    <File Include="testxml/DrvInfo.xml">
+      <publishTime>07/01/2015 08:50:26</publishTime>
+    </File>
+    <File Include="testxml/drvnewpinlun.xml">
+      <publishTime>07/01/2015 08:50:26</publishTime>
+    </File>
+    <File Include="testxml/drvpinlun.xml">
+      <publishTime>07/01/2015 08:50:26</publishTime>
+    </File>
+    <File Include="testxml/getdrv.xml">
+      <publishTime>07/01/2015 08:50:26</publishTime>
+    </File>
+    <File Include="testxml/getdrvpinlun.xml">
+      <publishTime>07/01/2015 08:50:26</publishTime>
+    </File>
+    <File Include="testxml/login.xml">
+      <publishTime>07/01/2015 08:50:26</publishTime>
+    </File>
+    <File Include="testxml/loginout.xml">
+      <publishTime>07/01/2015 08:50:26</publishTime>
+    </File>
+    <File Include="testxml/offuplatlng.xml">
+      <publishTime>07/01/2015 08:50:26</publishTime>
+    </File>
+    <File Include="testxml/onuplatlng.xml">
+      <publishTime>07/01/2015 08:50:26</publishTime>
+    </File>
+    <File Include="testxml/payinfo.xml">
+      <publishTime>07/01/2015 08:50:26</publishTime>
+    </File>
+    <File Include="testxml/uplatlng.xml">
+      <publishTime>07/01/2015 08:50:26</publishTime>
+    </File>
+    <File Include="version.xml">
+      <publishTime>07/01/2015 08:50:26</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/01/2015 11:50:26</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

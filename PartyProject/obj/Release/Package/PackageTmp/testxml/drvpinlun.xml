@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+
+<AppRequest>
+  <Head Code="0003" Source="" Uid="" Version="1.0" Type="Android" />
+  <DrvPinlunRequest>
+    <uid>1</uid>
+    <yinxiang>4</yinxiang>
+    <jishu>4</jishu>
+    <zhuanye>5</zhuanye>
+    <name>老吴</name>
+    <info>师傅开车平稳且速度快</info>
+  </DrvPinlunRequest>
+</AppRequest>

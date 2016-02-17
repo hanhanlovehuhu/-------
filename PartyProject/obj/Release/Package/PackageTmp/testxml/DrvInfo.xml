@@ -1,0 +1,7 @@
+﻿<?xml version="1.0"?>
+<AppRequest>
+  <Head Code="0004" Source="" Uid="" Version="1.0" Type="Android" />
+  <DrvInfoRequest>
+    <uid>1</uid>
+  </DrvInfoRequest>
+</AppRequest>

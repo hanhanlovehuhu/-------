@@ -1,0 +1,17 @@
+F:\Project\第三方合作项目\WebBll\bin\Debug\WebBll.dll
+F:\Project\第三方合作项目\WebBll\bin\Debug\WebBll.pdb
+F:\Project\第三方合作项目\WebBll\bin\Debug\Newtonsoft.Json.dll
+F:\Project\第三方合作项目\WebBll\bin\Debug\WebDal.dll
+F:\Project\第三方合作项目\WebBll\bin\Debug\WebModel.dll
+F:\Project\第三方合作项目\WebBll\bin\Debug\WebUtility.dll
+F:\Project\第三方合作项目\WebBll\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Project\第三方合作项目\WebBll\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Project\第三方合作项目\WebBll\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Project\第三方合作项目\WebBll\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Project\第三方合作项目\WebBll\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+F:\Project\第三方合作项目\WebBll\bin\Debug\WebDal.pdb
+F:\Project\第三方合作项目\WebBll\bin\Debug\WebModel.pdb
+F:\Project\第三方合作项目\WebBll\bin\Debug\WebUtility.pdb
+F:\Project\第三方合作项目\WebBll\obj\Debug\WebBll.csprojResolveAssemblyReference.cache
+F:\Project\第三方合作项目\WebBll\obj\Debug\WebBll.dll
+F:\Project\第三方合作项目\WebBll\obj\Debug\WebBll.pdb

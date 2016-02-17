@@ -1,0 +1,4 @@
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.Entity\bin\Release\Aidaijia.API.Entity.dll
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.Entity\bin\Release\Aidaijia.API.Entity.pdb
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.Entity\obj\Release\Aidaijia.API.Entity.dll
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.Entity\obj\Release\Aidaijia.API.Entity.pdb

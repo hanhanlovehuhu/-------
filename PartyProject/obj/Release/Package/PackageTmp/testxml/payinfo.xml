@@ -1,0 +1,22 @@
+﻿<?xml version="1.0"?>
+
+<AppRequest>
+  <Head Code="1006" Source="" Uid="" Version="1.0" Type="Android" />
+  <PayInfoRequest>
+    <serverid>1</serverid>
+    <clentid>1</clentid>
+    <orderid>003123</orderid>
+    <cusname>吴先生</cusname>
+    <cusphone>13818643330</cusphone>
+    <money>100</money>
+    <fptitle>币达科技</fptitle>
+    <fpaddress>莘凌路211</fpaddress>
+    <fptype>代驾费</fptype>
+    <needfapiao>1</needfapiao>
+    <state>0</state>
+    <lichen>10</lichen>
+    <sjbeizu></sjbeizu>
+    <startaddress>上海南站</startaddress>
+    <endaddress>莘庄</endaddress>
+  </PayInfoRequest>
+</AppRequest>

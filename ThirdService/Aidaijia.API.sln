@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aidaijia.API", "Aidaijia.API\Aidaijia.API.csproj", "{28F61433-74E6-4AA5-A803-75C936DF861D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aidaijia.API.Entity", "Aidaijia.API.Entity\Aidaijia.API.Entity.csproj", "{C69BAEB6-972F-4E71-A447-07C331E689EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aidaijia.API.BLL", "Aidaijia.API.BLL\Aidaijia.API.BLL.csproj", "{52CA13B8-D3A0-4FE9-A037-A2728EF76398}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aidaijia.API.Common", "Aidaijia.API.Common\Aidaijia.API.Common.csproj", "{CC67A727-8D77-4CB6-B5E8-D2F7CA0D1CD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aidaijia.API.DAL", "Aidaijia.API.DA\Aidaijia.API.DAL.csproj", "{E4489C43-A6C8-44EB-BE2E-9FD3C85B00F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendMessage", "SendMessage\SendMessage.csproj", "{CE4F7DAE-B02A-44E2-8CE1-1C61EB0E4F16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28F61433-74E6-4AA5-A803-75C936DF861D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28F61433-74E6-4AA5-A803-75C936DF861D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28F61433-74E6-4AA5-A803-75C936DF861D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28F61433-74E6-4AA5-A803-75C936DF861D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C69BAEB6-972F-4E71-A447-07C331E689EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C69BAEB6-972F-4E71-A447-07C331E689EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C69BAEB6-972F-4E71-A447-07C331E689EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C69BAEB6-972F-4E71-A447-07C331E689EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52CA13B8-D3A0-4FE9-A037-A2728EF76398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52CA13B8-D3A0-4FE9-A037-A2728EF76398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52CA13B8-D3A0-4FE9-A037-A2728EF76398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52CA13B8-D3A0-4FE9-A037-A2728EF76398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC67A727-8D77-4CB6-B5E8-D2F7CA0D1CD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC67A727-8D77-4CB6-B5E8-D2F7CA0D1CD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC67A727-8D77-4CB6-B5E8-D2F7CA0D1CD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC67A727-8D77-4CB6-B5E8-D2F7CA0D1CD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4489C43-A6C8-44EB-BE2E-9FD3C85B00F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4489C43-A6C8-44EB-BE2E-9FD3C85B00F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4489C43-A6C8-44EB-BE2E-9FD3C85B00F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4489C43-A6C8-44EB-BE2E-9FD3C85B00F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE4F7DAE-B02A-44E2-8CE1-1C61EB0E4F16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE4F7DAE-B02A-44E2-8CE1-1C61EB0E4F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE4F7DAE-B02A-44E2-8CE1-1C61EB0E4F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE4F7DAE-B02A-44E2-8CE1-1C61EB0E4F16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

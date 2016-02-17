@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+
+<AppRequest>
+  <Head Code="0005" Source="" Uid="" Version="1.0" Type="Android" />
+  <DrvNewPinlunRequest>
+    <uid>1</uid> 
+    <state>2</state>
+    <name>老吴</name>
+    <info>师傅开车平稳且速度快</info>
+  </DrvNewPinlunRequest>
+</AppRequest>

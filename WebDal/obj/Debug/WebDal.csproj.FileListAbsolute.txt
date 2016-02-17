@@ -1,0 +1,17 @@
+F:\Project\第三方合作项目\WebDal\bin\Debug\WebDal.dll
+F:\Project\第三方合作项目\WebDal\bin\Debug\WebDal.pdb
+F:\Project\第三方合作项目\WebDal\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+F:\Project\第三方合作项目\WebDal\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Project\第三方合作项目\WebDal\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Project\第三方合作项目\WebDal\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+F:\Project\第三方合作项目\WebDal\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Project\第三方合作项目\WebDal\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Project\第三方合作项目\WebDal\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+F:\Project\第三方合作项目\WebDal\bin\Debug\Newtonsoft.Json.dll
+F:\Project\第三方合作项目\WebDal\bin\Debug\WebModel.dll
+F:\Project\第三方合作项目\WebDal\bin\Debug\WebUtility.dll
+F:\Project\第三方合作项目\WebDal\bin\Debug\WebModel.pdb
+F:\Project\第三方合作项目\WebDal\bin\Debug\WebUtility.pdb
+F:\Project\第三方合作项目\WebDal\obj\Debug\WebDal.csprojResolveAssemblyReference.cache
+F:\Project\第三方合作项目\WebDal\obj\Debug\WebDal.dll
+F:\Project\第三方合作项目\WebDal\obj\Debug\WebDal.pdb

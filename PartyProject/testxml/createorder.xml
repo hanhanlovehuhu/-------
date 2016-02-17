@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+
+<AppRequest>
+  <Head Code="1007" Source="" Uid="" Version="1.0" Type="Android" />
+  <CallRequest>
+    <clentid>1</clentid>
+    <fromphone>15921567736</fromphone>
+    <tophone>13818643330</tophone>
+    <uid>1</uid>
+    <addtime>2012-09-10 20:35:00.000</addtime>
+    <sheng>9</sheng>
+    <shi>37</shi>
+  </CallRequest>
+</AppRequest>

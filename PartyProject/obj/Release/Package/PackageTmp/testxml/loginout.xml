@@ -1,0 +1,8 @@
+﻿<?xml version="1.0"?>
+
+<AppRequest>
+  <Head Code="1002" Source="" Uid="" Version="1.0" Type="Android" />
+  <LoginOutRequest>
+    <uid>1</uid>
+  </LoginOutRequest>
+</AppRequest>

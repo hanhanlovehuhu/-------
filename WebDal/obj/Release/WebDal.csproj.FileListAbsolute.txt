@@ -1,0 +1,17 @@
+F:\Project\第三方合作项目\WebDal\bin\Release\WebDal.dll
+F:\Project\第三方合作项目\WebDal\bin\Release\WebDal.pdb
+F:\Project\第三方合作项目\WebDal\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+F:\Project\第三方合作项目\WebDal\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Project\第三方合作项目\WebDal\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Project\第三方合作项目\WebDal\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+F:\Project\第三方合作项目\WebDal\bin\Release\Microsoft.Practices.ServiceLocation.dll
+F:\Project\第三方合作项目\WebDal\bin\Release\Microsoft.Practices.Unity.dll
+F:\Project\第三方合作项目\WebDal\bin\Release\Microsoft.Practices.Unity.Interception.dll
+F:\Project\第三方合作项目\WebDal\bin\Release\Newtonsoft.Json.dll
+F:\Project\第三方合作项目\WebDal\bin\Release\WebModel.dll
+F:\Project\第三方合作项目\WebDal\bin\Release\WebUtility.dll
+F:\Project\第三方合作项目\WebDal\bin\Release\WebModel.pdb
+F:\Project\第三方合作项目\WebDal\bin\Release\WebUtility.pdb
+F:\Project\第三方合作项目\WebDal\obj\Release\WebDal.csprojResolveAssemblyReference.cache
+F:\Project\第三方合作项目\WebDal\obj\Release\WebDal.dll
+F:\Project\第三方合作项目\WebDal\obj\Release\WebDal.pdb

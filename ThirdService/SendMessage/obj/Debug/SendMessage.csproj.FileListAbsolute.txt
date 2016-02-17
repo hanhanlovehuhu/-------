@@ -1,0 +1,11 @@
+F:\Project\第三方合作项目\ThirdService\SendMessage\bin\Debug\SendMessage.exe
+F:\Project\第三方合作项目\ThirdService\SendMessage\bin\Debug\SendMessage.pdb
+F:\Project\第三方合作项目\ThirdService\SendMessage\bin\Debug\Aidaijia.API.Common.dll
+F:\Project\第三方合作项目\ThirdService\SendMessage\bin\Debug\Newtonsoft.Json.dll
+F:\Project\第三方合作项目\ThirdService\SendMessage\bin\Debug\Aidaijia.API.Common.pdb
+F:\Project\第三方合作项目\ThirdService\SendMessage\obj\Debug\SendMessage.csprojResolveAssemblyReference.cache
+F:\Project\第三方合作项目\ThirdService\SendMessage\obj\Debug\SendMessage.Form1.resources
+F:\Project\第三方合作项目\ThirdService\SendMessage\obj\Debug\SendMessage.Properties.Resources.resources
+F:\Project\第三方合作项目\ThirdService\SendMessage\obj\Debug\SendMessage.csproj.GenerateResource.Cache
+F:\Project\第三方合作项目\ThirdService\SendMessage\obj\Debug\SendMessage.exe
+F:\Project\第三方合作项目\ThirdService\SendMessage\obj\Debug\SendMessage.pdb

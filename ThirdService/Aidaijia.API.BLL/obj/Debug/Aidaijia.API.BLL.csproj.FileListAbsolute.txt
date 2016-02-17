@@ -1,0 +1,12 @@
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.BLL\bin\Debug\Aidaijia.API.BLL.dll
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.BLL\bin\Debug\Aidaijia.API.BLL.pdb
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.BLL\bin\Debug\aidaijia.API.DA.dll
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.BLL\bin\Debug\Aidaijia.API.Entity.dll
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.BLL\bin\Debug\Aidaijia.API.Common.dll
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.BLL\bin\Debug\Newtonsoft.Json.dll
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.BLL\bin\Debug\aidaijia.API.DA.pdb
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.BLL\bin\Debug\Aidaijia.API.Entity.pdb
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.BLL\bin\Debug\Aidaijia.API.Common.pdb
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.BLL\obj\Debug\Aidaijia.API.BLL.csprojResolveAssemblyReference.cache
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.BLL\obj\Debug\Aidaijia.API.BLL.dll
+F:\Project\第三方合作项目\ThirdService\Aidaijia.API.BLL\obj\Debug\Aidaijia.API.BLL.pdb
